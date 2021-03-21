@@ -1,6 +1,7 @@
 package com.company;
 import java.util.Random;
 import java.util.Scanner;
+//new line inserted
 
 public class Main {
     private int value1;
